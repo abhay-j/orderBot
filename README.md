@@ -29,20 +29,20 @@ This program simulates an automated service, Orderbot, for taking "pick-up" orde
 
 ## Example Interaction
 
-Customer: Can I place an order?
-Orderbot: Hello! Welcome to Haandi Fine Indian Cuisine. Of course, you can place an order. What would you like to order?
-Customer: I'll have the Chicken Tikka Masala.
-Orderbot: Great choice! Anything else you'd like to add to your order?
-Customer: Yes, please add a Garlic Naan as well.
-Orderbot: Noted. Is there anything else you'd like to order?
-Customer: No, that's it. How long will it take to prepare?
-Orderbot: Your order will be ready for pickup in approximately 20 minutes. Please provide your credit card details to confirm the order.
-Customer: Sure, here's my credit card information.
-Orderbot: Thank you for providing your credit card details. Your order has been confirmed. You can pick it up in about 20 minutes. Enjoy your meal!
-Customer: Thank you!
-Orderbot: You're welcome! If you need any further assistance, feel free to ask.
-Customer: Goodbye.
-Orderbot: Goodbye, and have a wonderful day!
+- Customer: Can I place an order?
+- Orderbot: Hello! Welcome to Haandi Fine Indian Cuisine. Of course, you can place an order. What would you like to order?
+- Customer: I'll have the Chicken Tikka Masala.
+- Orderbot: Great choice! Anything else you'd like to add to your order?
+- Customer: Yes, please add a Garlic Naan as well.
+- Orderbot: Noted. Is there anything else you'd like to order?
+- Customer: No, that's it. How long will it take to prepare?
+- Orderbot: Your order will be ready for pickup in approximately 20 minutes. Please provide your credit card details to confirm the order.
+- Customer: Sure, here's my credit card information.
+- Orderbot: Thank you for providing your credit card details. Your order has been confirmed. You can pick it up in about 20 minutes. Enjoy your meal!
+- Customer: Thank you!
+- Orderbot: You're welcome! If you need any further assistance, feel free to ask.
+- Customer: Goodbye.
+- Orderbot: Goodbye, and have a wonderful day!
 Conversation Ended
 
 ## Notes
